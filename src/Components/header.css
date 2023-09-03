@@ -1,5 +1,4 @@
 .background{
-    background-image: url("https://ui-assets-gc.thrillophilia.com/assets/homepage/homepage-banner-2696fc25d8bb0f563e9ff7ae22882ee67cea624e244dfb0bc74316db0ffdcfba.jpg");
     height: 100%;
     width: 100%;
     color: white;
@@ -11,7 +10,7 @@
     height: 100px;
 }
 Form{
-    margin-left: 30%;
+    margin-left: 26%;
     margin-right: 30%;
 }
 .navbar input{
@@ -19,7 +18,9 @@ Form{
     border-radius: 0;
     background-color: transparent;
     color: white;
-    border-bottom: 1px solid white;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 250px;
 }
 .navbar input::placeholder { 
     color: white;

@@ -5,9 +5,10 @@ import { BsGlobeCentralSouthAsia } from "react-icons/bs";
 import { GiCommercialAirplane } from 'react-icons/gi';
 import { GiReceiveMoney } from 'react-icons/gi';
 import image from './Assets/avirat-logo-removebg.png'
+import banner from './Assets/homepage-banner.jpg'
 function header() {
   return (
-    <div className='background'>
+    <div className='background' style={{backgroundImage:`url(${banner})`}}>
     <nav className="navbar navbar-expand-lg navbar-dark">
         <div>
             <a className="navbar-brand container-fluid" href="#">
