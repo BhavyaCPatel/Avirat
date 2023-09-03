@@ -1,0 +1,88 @@
+.background{
+    background-image: url("https://ui-assets-gc.thrillophilia.com/assets/homepage/homepage-banner-2696fc25d8bb0f563e9ff7ae22882ee67cea624e244dfb0bc74316db0ffdcfba.jpg");
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+}
+Form{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.navbar input{
+    border: 0;
+    border-radius: 0;
+    background-color: transparent;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.navbar input::placeholder { 
+    color: white;
+}
+Nav.Link{
+    float: right;
+}
+.stats h2{
+    margin-right: 10%;
+    margin-bottom: 2%;
+    color: rgb(181, 176, 176);
+}
+.stats h2 span{
+    font-weight:450;
+    font-size: 15px;
+    text-align: right;
+    line-height: 1px;
+}
+.stats h2:hover{
+    color: aliceblue;
+}
+.caption {
+    color: #e5e5e5;
+    font-size: 2rem;
+    text-transform: uppercase;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+}
+.caption h1{
+    font-size: 3em;
+}
+.first, .second, .third{
+    font-size: 3em;
+}
+.animation {
+    height:150px;
+    overflow:hidden;
+    margin-left: 1rem;
+    text-align: center;
+}
+
+.animation > div > div {
+    padding: 0.25rem 0.75rem;
+    height:3rem;
+    margin-bottom: 2.81rem;
+    display:inline-block;
+}
+
+.animation div:first-child {
+    animation: text-animation 15s infinite;
+}
+@keyframes text-animation {
+    0% {margin-top: 0;}
+    10% {margin-top: 0;}
+    20% {margin-top: -8rem;}
+    30% {margin-top: -8rem;}
+    40% {margin-top: -18rem;}
+    60% {margin-top: -18rem;}
+    70% {margin-top: -8rem;}
+    80% {margin-top: -8rem;}
+    90% {margin-top: 0;}
+    100% {margin-top: 0;}
+}
