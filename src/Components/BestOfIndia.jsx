@@ -3,8 +3,8 @@ import CardList from './CardList'
 import './Country.css'
 const BestOfIndia = () => {
   return (
-    <div className='countainer-fluid box'>
-        <u><h1 className='text-center m-3' style={{color: '#80ed99ff'}}>Best Of India</h1></u><br/>
+    <div className='container-fluid box'>
+        <u><h1 className='text-center m-3' style={{color: '#c7f9ccff'}}>Best Of India</h1></u><br/>
         <CardList className='m-2'/>
     </div>
   )
