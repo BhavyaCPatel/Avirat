@@ -25,7 +25,7 @@ const Escapes = () => {
         </div>
         {images.map((data, index)=>{
           return(
-            <div className='card' key={index}>
+            <div className='boxes' key={index}>
               <a href=""><img 
                   src= {data}
                   height={'300px'}
