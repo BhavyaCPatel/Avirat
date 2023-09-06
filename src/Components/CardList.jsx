@@ -3,19 +3,20 @@ import Cards from './Cards';
 import { cardData, responsive } from '../data';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const CardList = () => {
-    const cards = cardData.map((item) => (
-        // <Link key={item.id} to={`/states/${item.name}`}>
+    const card = cardData.map((item) => (
+        <Link key={item.id} to={`/states/${item.name}`}>
             <Cards url={item.imageurl}  name={item.name}/>
-        // </Link>
+        </Link>
     ));
 
     return (
     <div className="App">
+        <u><h1 className='text-center m-3' style={{color: '#c7f9ccff'}}>Best Of India</h1></u>
         <Carousel  responsive={responsive} className='p-3'>
-            {cards}
+            {card}
         </Carousel>
     </div>
     );

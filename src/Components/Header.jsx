@@ -35,12 +35,12 @@ function header() {
             </div>
         </div>
     </nav>
-    <div class="caption">
+    <div className="caption">
         <h1>It's time for new</h1>
-        <section class="animation">
-            <div class="first"><div>Adventure</div></div>
-            <div class="second"><div>Escape</div></div>
-            <div class="third"><div>Thrill</div></div>
+        <section className="animation">
+            <div className="first"><div>Adventure</div></div>
+            <div className="second"><div>Escape</div></div>
+            <div className="third"><div>Thrill</div></div>
         </section>
     </div>
     <div className="stats d-flex text-center container-fluid">
