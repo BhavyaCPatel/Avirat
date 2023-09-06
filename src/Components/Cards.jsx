@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Cards.css'
 const cardStyle={
     position: 'relative',
     textAlign: 'center',
@@ -13,7 +13,7 @@ const textStyle={
 }
 const Cards = (props) => {
 return (
-        <div className="card " style={cardStyle}>
+        <div className="cards boxes" style={cardStyle}>
             <img src={props.url} alt="{props.name}" className='product--image'/>
             <h5 style={textStyle} className='text-center'>{props.name}</h5>
         </div>

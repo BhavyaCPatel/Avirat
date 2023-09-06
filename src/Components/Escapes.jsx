@@ -23,9 +23,9 @@ const Escapes = () => {
           <h2>Find Your Perfect <br /> Escape <hr/></h2>
           <h5>Discover your ideal experience.</h5>
         </div>
-        {images.map((data)=>{
+        {images.map((data, index)=>{
           return(
-            <div className='card'>
+            <div className='boxes' key={index}>
               <a href=""><img 
                   src= {data}
                   height={'300px'}
