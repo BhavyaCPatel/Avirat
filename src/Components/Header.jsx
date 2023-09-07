@@ -24,12 +24,12 @@ function header() {
                     <button type="submit" className="btn text-light"><FaSistrix/></button>
             </form>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul className="navbar-nav text-center me-auto mb-2 mb-lg-0">
+                <ul className="navbar-nav text-center mb-2 mb-lg-0">
                     <li className="nav-item">
-                        <a className="nav-link active" aria-current="page" href="#about">Home</a>
+                        <a className="nav-link active" aria-current="page">Login</a>
                     </li><div style={{"width":"2px"}}></div>
                     <li className="nav-item">
-                        <a className="nav-link" href="#footer">Contact</a>
+                        <a className="nav-link active">Send Inquiry</a>
                     </li><div style={{"width":"2px"}}></div>
                 </ul>
             </div>

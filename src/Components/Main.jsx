@@ -5,9 +5,11 @@ import CardCarousel from './CardCarousel';
 import Banners from './Banners';
 import CardHoverList from './CardHoverList';
 import Blogs from './Blogs';
+import Footer from './Footer';
 const Main = () => {
   return (
-    <><Header/>
+    <>
+    <Header/>
     <div className=' container-fluid box'>
         <Escapes/>
         <CardCarousel/>
@@ -15,6 +17,7 @@ const Main = () => {
         <CardHoverList/>
         <Blogs/>
     </div>
+    <Footer/>
     </>
   )
 }

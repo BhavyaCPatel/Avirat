@@ -2,7 +2,7 @@ import React from 'react'
 import { BsArrowRight } from "react-icons/bs";
 const Blogs = () => {
     return (
-        <div>
+        <div className='my-5'>
             <u><h1 className='text-center m-3' style={{color: '#c7f9ccff'}}>Latest Travel Trends</h1></u>
             <div className="container mt-4" >
                 <div className="row">
