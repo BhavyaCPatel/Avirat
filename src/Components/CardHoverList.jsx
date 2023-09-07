@@ -1,6 +1,6 @@
 import React from 'react'
 import CardHover from './CardHover'
-import { BoSData, DLData } from '../data'
+import { BoDData, BoSData, DLData, HAData } from '../data'
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
@@ -8,7 +8,7 @@ const responsive = {
   superLargeDesktop: {
       breakpoint: { max: 4000, min: 1024 },
       items: 3,
-      slidesToSlide: 1,
+      slidesToSlide: 2,
   },
   desktop: {
       breakpoint: { max: 1024, min: 800 },
@@ -38,6 +38,20 @@ const CardHoverList = () => {
                 duration={item.duration}
                 price={item.price}/>
   ))
+  const card3=BoDData.map((item)=>(
+    <CardHover  name={item.name}
+                img={item.img}
+                rating={item.rating}
+                duration={item.duration}
+                price={item.price}/>
+  ))
+  const card4=HAData.map((item)=>(
+    <CardHover  name={item.name}
+                img={item.img}
+                rating={item.rating}
+                duration={item.duration}
+                price={item.price}/>
+  ))
   return (
     <>
       <div className='App '>
@@ -50,6 +64,18 @@ const CardHoverList = () => {
         <u><h1 className='text-center m-3' style={{color: '#c7f9ccff'}}>Best Of Singapore</h1></u>
         <Carousel responsive={responsive}>
               {card2}
+        </Carousel>
+      </div>
+      <div className='App '>
+        <u><h1 className='text-center m-3' style={{color: '#c7f9ccff'}}>Best Of Dubai</h1></u>
+        <Carousel responsive={responsive}>
+              {card3}
+        </Carousel>
+      </div>
+      <div className='App '>
+        <u><h1 className='text-center m-3' style={{color: '#c7f9ccff'}}>Himalayan Adventures</h1></u>
+        <Carousel responsive={responsive}>
+              {card4}
         </Carousel>
       </div>
     </>

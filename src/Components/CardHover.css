@@ -23,9 +23,7 @@
     inset: auto auto 30px 5px;
     margin: 0;
     transition: inset 0.3s 0.3s ease-out;
-    font-family: 'Roboto Condensed', sans-serif;
     font-weight: normal;
-    text-transform: uppercase;
 }
 .card-item p , .card-item button {
     position: absolute;
@@ -34,7 +32,8 @@
     transition: opacity 0.3s ease-out;
 }
 .card-item p{
-    inset: auto auto 80px 20px;
+    inset: auto auto 80px 15px;
+    font-weight: bold;
 }
 
 .card-item button {
@@ -44,14 +43,14 @@
 }
 .card-item:hover h2 {
     inset: auto auto 220px 5px;
-    transition: inset 0.3s ease-out;
+    transition: inset 0.4s ease-out;
 }
 .card-item:hover p, .card-item:hover button {
     opacity: 1;
-    transition: opacity 0.5s 0.1s ease-in;
+    transition: opacity 0.6s 0.2s ease-in;
 }
 .card-item:hover img {
-    transition: opacity 0.3s ease-in;
+    transition: opacity 0.4s ease-in;
     opacity: 1;
 }
 .material-symbols-outlined {

@@ -235,35 +235,35 @@ export const IEData = [
 export const DLData=[
     {
         id:1,
-        name:'Leh-Ladakh',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
-        rating:4.3,
+        name:'Leh-Ladakh with Pangong Lake',
+        img:'https://media1.thrillophilia.com/filestore/yjlfxuo5wxg1pzrfjsdgu0pgafyn_LADAKH.png?w=222&h=301&dpr=2.0',
+        duration:'5D/4N',
+        rating:4.63,
         price:18000
     },
     {
         id:2,
-        name:'Leh-Ladakh',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        name:'Leh-Ladakh Bike Trip',
+        img:'https://media1.thrillophilia.com/filestore/w38wenfg1ycrhni0fpmx69x9etl8_Artboard%205_.png?w=222&h=301&dpr=2.0',
         duration:'3D/2N',
         rating:4.3,
-        price:18000
+        price:17800
     },
     {
         id:3,
-        name:'Leh-Ladakh',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        name:'Leh-Ladakh Sight Seeing',
+        img:'https://media1.thrillophilia.com/filestore/e0552q6b2t4sm2mrgspdn319p948_Artboard%202_%20copy.png?w=222&h=301&dpr=2.0',
         duration:'3D/2N',
-        rating:4.3,
+        rating:4.5,
         price:18000
     },
     {
         id:4,
-        name:'Leh-Ladakh',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
-        rating:4.3,
-        price:18000
+        name:'Luxurious Leh-Ladakh',
+        img:'https://media1.thrillophilia.com/filestore/buj95vl0xzq08tqbkmww23oqxwl1_Artboard%204_.png?w=222&h=301&dpr=2.0',
+        duration:'5D/4N',
+        rating:4.7,
+        price:58000
     },
     {
         id:5,
@@ -275,77 +275,161 @@ export const DLData=[
     },
     {
         id:6,
-        name:'Leh-Ladakh',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
-        rating:4.3,
-        price:18000
-    },
-    {
-        id:7,
-        name:'Leh-Ladakh',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
-        rating:4.3,
-        price:18000
+        name:'Leh-Ladakh with Saichen Base Camp',
+        img:'https://media1.thrillophilia.com/filestore/i1cpcjajsemu40i1iq0bq94pkm2r_Artboard%207%20(3).png?w=222&h=301&dpr=2.0',
+        duration:'7D/6N',
+        rating:4.0,
+        price:38000
     },
 ];
 export const BoSData=[
     {
         id:1,
-        name:'Singapore',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
-        rating:4.3,
-        price:18000
+        name:'Universal Studios Singapore',
+        img:'https://images.unsplash.com/photo-1578400742228-b18c424361e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dW5pdmVyc2FsJTIwc3R1ZGlvcyUyMHNpbmdhcG9yZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60',
+        duration:'8H',
+        rating:4.9,
+        price:8000
     },
     {
         id:2,
-        name:'Singapore',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
-        rating:4.3,
-        price:18000
+        name:'Garden By the Bay',
+        img:'https://images.unsplash.com/photo-1555217851-6141535bd771?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2luZ2Fwb3JlJTIwZ2FyZGVucyUyMGJ5JTIwdGhlJTIwYmF5fGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60',
+        duration:'3H',
+        rating:4.5,
+        price:3000
     },
     {
         id:3,
-        name:'Singapore',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
+        name:'Singapore Aquarium',
+        img:'https://media1.thrillophilia.com/filestore/6bgqtvq82kskkgi56bye538bmv83_shutterstock_248941720.jpg?w=222&h=301&dpr=2.0',
+        duration:'2H',
         rating:4.3,
-        price:18000
+        price:2800
     },
     {
         id:4,
-        name:'Singapore',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
-        rating:4.3,
-        price:18000
+        name:'Singapore Zoo',
+        img:'https://media1.thrillophilia.com/filestore/du5mqre34ekjnm9wyctnqtmkgsny_download%20(6).jpeg?w=222&h=301&dpr=2.0',
+        duration:'4H',
+        rating:4.7,
+        price:5000
     },
     {
         id:5,
-        name:'Singapore',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
-        rating:4.3,
-        price:18000
+        name:'Singapore Night Safari',
+        img:'https://media1.thrillophilia.com/filestore/tvun0peej0x47r9gsjti1w2qiduy_Magic-Ways-DSC-6555_2050dec31_world_magic-ways-disneyland-paris-express-shuttle_16-9_zoom_tcm1861-256872-p~1-f~jpg.jpg?w=222&h=301&dpr=2.0',
+        duration:'2H',
+        rating:4.5,
+        price:2500
     },
     {
         id:6,
-        name:'Singapore',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
+        name:'Madam Tussads Museum',
+        img:'https://media1.thrillophilia.com/filestore/777j1rrszej56i49vlktze61csw1_5%20in%201%20Bollywood%20KV.jpeg?w=222&h=301&dpr=2.0',
+        duration:'2H',
         rating:4.3,
-        price:18000
+        price:2500
+    },
+];
+export const BoDData=[
+    {
+        id:1,
+        name:'Burj Khalifa',
+        img:'https://images.unsplash.com/photo-1634007626524-f47fa37810a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fER1YmFpfGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60',
+        duration:'1H',
+        rating:4.7,
+        price:4000
     },
     {
-        id:7,
-        name:'Singapore',
-        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
-        duration:'3D/2N',
+        id:2,
+        name:'Dubai Frame',
+        img:'https://images.unsplash.com/photo-1579526075574-89aa38a66bef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZHViYWklMjBmcmFtZXxlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
+        duration:'1H',
+        rating:4.5,
+        price:1000
+    },
+    {
+        id:3,
+        name:'Lost Chamber Aquarium',
+        img:'https://media1.thrillophilia.com/filestore/ptly35tpzh3zti41y356bhrrhq5x_shutterstock_1806693025.jpg?w=222&h=301&dpr=2.0',
+        duration:'3H',
+        rating:4.8,
+        price:2800
+    },
+    {
+        id:4,
+        name:'Desert Safari',
+        img:'https://media1.thrillophilia.com/filestore/7k60ff0s3dk8f8jzmfkj88fpviej_Dubai%20Desert%20Safari%20hghg.jpg?w=222&h=301&dpr=2.0',
+        duration:'5H',
+        rating:4.7,
+        price:5000
+    },
+    {
+        id:5,
+        name:'Dubai Evening Market',
+        img:'https://images.unsplash.com/photo-1603783032802-460a687c4eef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGR1YmFpJTIwZXZlbmluZ3xlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
+        duration:'2H',
+        rating:4.5,
+        price:'Free'
+    },
+    {
+        id:6,
+        name:'UnderWater Zoo',
+        img:'https://media1.thrillophilia.com/filestore/csit39xfi8yhpy4zr4l0cg8lok4f_Artboard%203%20(3).png?w=222&h=301&dpr=2.0',
+        duration:'2H',
         rating:4.3,
-        price:18000
+        price:2500
+    },
+];
+export const HAData=[
+    {
+        id:1,
+        name:'Everest Base Camp Trek',
+        img:'https://media1.thrillophilia.com/filestore/q91jqy6zc4n2hsip94rk93wr6kaa_everest-base-camp-trek-independently-main-image-900.png?w=222&h=301&dpr=2.0',
+        duration:'12D/11N',
+        rating:4.7,
+        price:46000
+    },
+    {
+        id:2,
+        name:'Valley Of Flowers',
+        img:'https://media1.thrillophilia.com/filestore/rl22nsh40qtuals3m1wknypuo2jm_shutterstock_1962269032.jpg?w=222&h=301&dpr=2.0',
+        duration:'6D/5N',
+        rating:4.8,
+        price:6500
+    },
+    {
+        id:3,
+        name:'Hampta Pass Trek, Manali',
+        img:'https://media1.thrillophilia.com/filestore/4ebwp72h5glgr0umhey425brwqn3_shutterstock_1476181970.jpg?w=222&h=301&dpr=2.0',
+        duration:'5D/4N',
+        rating:4.7,
+        price:85000
+    },
+    {
+        id:4,
+        name:'Hari Ki Dun Trek, Uttarakhand',
+        img:'https://media1.thrillophilia.com/filestore/a9cbk8hhueilo0pnztak29ihty3o_pexels-dreamlens-production-2450296.jpg?w=222&h=301&dpr=2.0',
+        duration:'7D/6N',
+        rating:4.5,
+        price:9000
+    },
+    {
+        id:5,
+        name:'Sar Pass Trek, Kasol',
+        img:'https://media1.thrillophilia.com/filestore/65243qo4qtvoy32pn1cd8wtonr9d_shutterstock_1844223580.jpg?w=222&h=301&dpr=2.0',
+        duration:'5D/4N',
+        rating:4.4,
+        price:7000
+    },
+    {
+        id:6,
+        name:'Kauri Pass Trek, Uttarakhnad',
+        img:'https://media1.thrillophilia.com/filestore/dwib04tulfk1a5kyiq1cipij0mc7_Kuari-Pass.jpg?w=222&h=301&dpr=2.0',
+        duration:'6D/5N',
+        rating:4.3,
+        price:8500
     },
 ];
 export const statesData = [
