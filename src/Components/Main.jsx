@@ -4,6 +4,7 @@ import Header from './Header';
 import CardCarousel from './CardCarousel';
 import Banners from './Banners';
 import CardHoverList from './CardHoverList';
+import Blogs from './Blogs';
 const Main = () => {
   return (
     <><Header/>
@@ -12,6 +13,7 @@ const Main = () => {
         <CardCarousel/>
         <Banners/>
         <CardHoverList/>
+        <Blogs/>
     </div>
     </>
   )
