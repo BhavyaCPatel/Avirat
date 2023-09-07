@@ -232,6 +232,122 @@ export const IEData = [
         
     },    
 ]; 
+export const DLData=[
+    {
+        id:1,
+        name:'Leh-Ladakh',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:2,
+        name:'Leh-Ladakh',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:3,
+        name:'Leh-Ladakh',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:4,
+        name:'Leh-Ladakh',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:5,
+        name:'Leh-Ladakh',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:6,
+        name:'Leh-Ladakh',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:7,
+        name:'Leh-Ladakh',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+];
+export const BoSData=[
+    {
+        id:1,
+        name:'Singapore',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:2,
+        name:'Singapore',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:3,
+        name:'Singapore',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:4,
+        name:'Singapore',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:5,
+        name:'Singapore',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:6,
+        name:'Singapore',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+    {
+        id:7,
+        name:'Singapore',
+        img:'https://images.unsplash.com/photo-1656618020911-1c7a937175fd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTc1MzQyNTE&ixlib=rb-1.2.1&q=80',
+        duration:'3D/2N',
+        rating:4.3,
+        price:18000
+    },
+];
 export const statesData = [
     {   
         name: 'Spiti', 
@@ -240,7 +356,7 @@ export const statesData = [
         title: 'Spiti Valley Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?',
     },  
     { 
@@ -250,7 +366,7 @@ export const statesData = [
         title: 'Spiti Valley Bike Trip',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?',
     },  
     { 
@@ -260,7 +376,7 @@ export const statesData = [
         title: 'Spiti Valley in Winter',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?',
     },  
     {   
@@ -270,7 +386,7 @@ export const statesData = [
         title: 'Jaipur Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -280,7 +396,7 @@ export const statesData = [
         title: 'Discovering Rajasthan',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -290,7 +406,7 @@ export const statesData = [
         title: 'Fort Special Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -300,7 +416,7 @@ export const statesData = [
         title: 'Darjeeling Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -310,7 +426,7 @@ export const statesData = [
         title: 'Gangtok Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {    
@@ -320,7 +436,7 @@ export const statesData = [
         title: 'Lachen Lachung Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -330,7 +446,7 @@ export const statesData = [
         title: 'Leh Ladakh Group Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -340,7 +456,7 @@ export const statesData = [
         title: 'Ladakh Sight-Seeing Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -350,7 +466,7 @@ export const statesData = [
         title: 'Ladakh Bike Trip',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -360,7 +476,7 @@ export const statesData = [
         title: 'Discovering Magical Kasmir',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -370,7 +486,7 @@ export const statesData = [
         title: 'Srinagar Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -380,7 +496,7 @@ export const statesData = [
         title: 'Kashmir Group Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -390,7 +506,7 @@ export const statesData = [
         title: 'Khajurao Temples Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -400,7 +516,7 @@ export const statesData = [
         title: 'Kanha National Park Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -410,7 +526,7 @@ export const statesData = [
         title: 'Fort Special MP Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -420,7 +536,7 @@ export const statesData = [
         title: 'Assam Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -430,7 +546,7 @@ export const statesData = [
         title: 'Exploring The Meghalayas',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -440,7 +556,7 @@ export const statesData = [
         title: 'Mizoram Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -450,7 +566,7 @@ export const statesData = [
         title: 'Kerala Boat-House Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -460,7 +576,7 @@ export const statesData = [
         title: 'Magical Wayanad',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -470,7 +586,7 @@ export const statesData = [
         title: 'Kerala tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -480,7 +596,7 @@ export const statesData = [
         title: 'Uttarakhand Getaway',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -490,7 +606,7 @@ export const statesData = [
         title: 'Haridwar Rishikesh Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -500,7 +616,7 @@ export const statesData = [
         title: 'Jim Corbett Visit',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -510,7 +626,7 @@ export const statesData = [
         title: 'Shimla Manali Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -520,7 +636,7 @@ export const statesData = [
         title: 'Dharmashala Camping',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -530,7 +646,7 @@ export const statesData = [
         title: 'Exploring Himachal',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -540,7 +656,7 @@ export const statesData = [
         title: 'Exploring Italy',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -550,7 +666,7 @@ export const statesData = [
         title: 'Italy Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -560,7 +676,7 @@ export const statesData = [
         title: 'Italy City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -570,7 +686,7 @@ export const statesData = [
         title: 'Exploring Switzerland',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -580,7 +696,7 @@ export const statesData = [
         title: 'Switzerland City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -590,7 +706,7 @@ export const statesData = [
         title: 'Switzerland Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -600,7 +716,7 @@ export const statesData = [
         title: 'Greece City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -610,7 +726,7 @@ export const statesData = [
         title: 'Exploring Greece',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -620,7 +736,7 @@ export const statesData = [
         title: 'Greece Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -630,7 +746,7 @@ export const statesData = [
         title: 'Exploring Spain',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -640,7 +756,7 @@ export const statesData = [
         title: 'Spain Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -650,7 +766,7 @@ export const statesData = [
         title: 'Spain City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -660,7 +776,7 @@ export const statesData = [
         title: 'Magical Paris',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -670,7 +786,7 @@ export const statesData = [
         title: 'Paris City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -680,7 +796,7 @@ export const statesData = [
         title: 'Exploring Paris',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -690,7 +806,7 @@ export const statesData = [
         title: 'Germany City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -700,7 +816,7 @@ export const statesData = [
         title: 'Exploring Germany',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -710,7 +826,7 @@ export const statesData = [
         title: 'Germany Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -720,7 +836,7 @@ export const statesData = [
         title: 'Magical Iceland',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -730,7 +846,7 @@ export const statesData = [
         title: 'Exploring Iceland',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -740,7 +856,7 @@ export const statesData = [
         title: 'Iceland City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -750,7 +866,7 @@ export const statesData = [
         title: 'Exploring Iceland',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -760,7 +876,7 @@ export const statesData = [
         title: 'Iceland Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -770,7 +886,7 @@ export const statesData = [
         title: 'Magical Norway',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -780,7 +896,7 @@ export const statesData = [
         title: 'Exploring Sweden',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },
     {   
@@ -790,7 +906,7 @@ export const statesData = [
         title: 'Sweden City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -800,7 +916,7 @@ export const statesData = [
         title: 'Sweden Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -810,7 +926,7 @@ export const statesData = [
         title: 'Netherland City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -820,7 +936,7 @@ export const statesData = [
         title: 'Exploring Netherland',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -830,7 +946,7 @@ export const statesData = [
         title: 'Netherland Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -840,7 +956,7 @@ export const statesData = [
         title: 'Malaysia Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -850,7 +966,7 @@ export const statesData = [
         title: 'Malaysia City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -860,7 +976,7 @@ export const statesData = [
         title: 'Exploring Malaysia',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -870,7 +986,7 @@ export const statesData = [
         title: 'Cambodia City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -880,7 +996,7 @@ export const statesData = [
         title: 'Cambodia Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -890,7 +1006,7 @@ export const statesData = [
         title: 'Exploring Cambodia',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -900,7 +1016,7 @@ export const statesData = [
         title: 'Exploring Thailand',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -910,7 +1026,7 @@ export const statesData = [
         title: 'Thailand City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -920,7 +1036,7 @@ export const statesData = [
         title: 'Thailand Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -930,7 +1046,7 @@ export const statesData = [
         title: 'Exploring Singapore',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -940,7 +1056,7 @@ export const statesData = [
         title: 'Singapore Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -950,7 +1066,7 @@ export const statesData = [
         title: 'Singapore City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -960,7 +1076,7 @@ export const statesData = [
         title: 'Vietnam City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -970,7 +1086,7 @@ export const statesData = [
         title: 'Exploring Vietnam',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -980,7 +1096,7 @@ export const statesData = [
         title: 'Vietnam Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -990,7 +1106,7 @@ export const statesData = [
         title: 'Exploring Bali',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1000,7 +1116,7 @@ export const statesData = [
         title: 'Bali City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1010,7 +1126,7 @@ export const statesData = [
         title: 'Bali Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1020,7 +1136,7 @@ export const statesData = [
         title: 'Exploring Philippines',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1030,7 +1146,7 @@ export const statesData = [
         title: 'Philippines City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1040,7 +1156,7 @@ export const statesData = [
         title: 'Philippines Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1050,7 +1166,7 @@ export const statesData = [
         title: 'Laos City Tour',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1060,7 +1176,7 @@ export const statesData = [
         title: 'Exploring Laos',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1070,7 +1186,7 @@ export const statesData = [
         title: 'Laos Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1080,7 +1196,7 @@ export const statesData = [
         title: 'Maldives Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1090,7 +1206,7 @@ export const statesData = [
         title: 'Exploring Maldives',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1100,7 +1216,7 @@ export const statesData = [
         title: 'Offbeat Maldives',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1110,7 +1226,7 @@ export const statesData = [
         title: 'Offbeat Andaman',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1120,7 +1236,7 @@ export const statesData = [
         title: 'Andaman Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1130,7 +1246,7 @@ export const statesData = [
         title: 'Exploring Andaman',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1140,7 +1256,7 @@ export const statesData = [
         title: 'Exploring Mauritius',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1150,7 +1266,7 @@ export const statesData = [
         title: 'Mauritius Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1160,7 +1276,7 @@ export const statesData = [
         title: 'Offbeat Mauritius',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1170,7 +1286,7 @@ export const statesData = [
         title: 'Exploring Lakshadweep',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1180,7 +1296,7 @@ export const statesData = [
         title: 'Offbeat Lakshadweep',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1190,7 +1306,7 @@ export const statesData = [
         title: 'Lakshadweep Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1200,7 +1316,7 @@ export const statesData = [
         title: 'Exploring Nicobar',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1210,7 +1326,7 @@ export const statesData = [
         title: 'Nicobar Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1220,7 +1336,7 @@ export const statesData = [
         title: 'Offbeat Nicobar',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1230,7 +1346,7 @@ export const statesData = [
         title: 'Offbeat Srilanka',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1240,7 +1356,7 @@ export const statesData = [
         title: 'Srilanka Tour Package',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
     {   
@@ -1250,7 +1366,7 @@ export const statesData = [
         title: 'Exploring Srilanka',
         rating: 4.5,
         duration:'4D/3N',
-        price:'Rs25,000',
+        price:'25,000',
         about:'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta, sunt dignissimos at ut omnis cumque quam, laboriosam quas veniam natus commodi fuga vel. Nulla commodi incidunt quas vel ipsum. Sapiente quis ipsam adipisci dignissimos excepturi incidunt fugit molestias placeat. Quas rem doloremque sint possimus quisquam qui aut tenetur voluptatum?', 
     },  
 ];

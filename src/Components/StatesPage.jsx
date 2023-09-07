@@ -1,7 +1,9 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import {statesData} from '../data'
-
+import { AiOutlineClockCircle } from "react-icons/ai";
+import { AiFillStar } from "react-icons/ai";
+import { LiaRupeeSignSolid } from "react-icons/lia";
 
 const StatesPage = () => {
     const { Cname } = useParams();
@@ -22,13 +24,13 @@ const StatesPage = () => {
                             <div className="container">
                                 <div className="row text-center">
                                     <div className="col-sm">
-                                        <p className="mt-2" style={{fontSize:'2em'}}>{state.duration}</p>
+                                        <p className="mt-2" style={{fontSize:'2em'}}><AiOutlineClockCircle/>&nbsp;{state.duration}</p>
                                     </div>
                                     <div className="col-sm">
-                                        <p className="mt-3"style={{fontSize:'1.5em'}}><span className='border border-warning text-light rounded bg-warning px-5 py-2'>{state.rating}/5</span></p>
+                                        <p className="mt-3"style={{fontSize:'1.5em'}}><span className='border border-warning text-light rounded bg-warning px-3 py-2'><AiFillStar/>&nbsp;{state.rating}/5</span></p>
                                     </div>
                                     <div className="col-sm">
-                                        <p className="mt-2 text-secondary display-6" style={{fontSize:'1.45em'}}>{state.price}  &nbsp;per adult</p>
+                                        <p className="mt-2 text-secondary display-6" style={{fontSize:'1.45em'}}><LiaRupeeSignSolid/>{state.price}  &nbsp;per adult</p>
                                     </div>
                                 </div>
                             </div><hr/>
