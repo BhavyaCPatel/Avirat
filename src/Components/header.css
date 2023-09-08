@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
 .background{
     height: 100%;
     width: 100%;
@@ -7,23 +9,22 @@
 }
 .logo{
     width: 200px;
-    height: 100px;
+    height: 150px;
 }
 Form{
     margin-left: 26%;
     margin-right: 22%;
 }
-.navbar input{
+.navbar span{
     border: 0;
     border-radius: 0;
+    font-family: 'Yatra One', cursive;
     background-color: transparent;
     color: white;
-    border: 1px solid white;
     border-radius: 20px;
     width: 250px;
-}
-.navbar input::placeholder { 
-    color: white;
+    letter-spacing: 3px;
+    font-size: 4em;
 }
 
 .stats h2{

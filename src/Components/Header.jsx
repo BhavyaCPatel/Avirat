@@ -1,31 +1,31 @@
-import './header.css'
-import { FaSistrix } from 'react-icons/fa6';
+import './header.css';
 import { FaUsers } from 'react-icons/fa6';
 import { BsGlobeCentralSouthAsia } from "react-icons/bs";
 import { GiCommercialAirplane } from 'react-icons/gi';
 import { GiReceiveMoney } from 'react-icons/gi';
-import logo from './Assets/avirat-logo-removebg.png'
-import banner from './Assets/homepage-banner.jpg'
+import logo from './Assets/avirat-logo-removebg.png';
+import banner from './Assets/homepage-banner.jpg';
 import { Link } from 'react-router-dom';
-import Login from './Login'
-import SendInquiry from './SendInquiry'
+import Login from './Login';
+import SendInquiry from './SendInquiry';
+import { useAuth0 } from "@auth0/auth0-react";
 
-function header() {
+const Header=()=> {
+    const { user, isAuthenticated } = useAuth0();
   return (
     <div className='background' style={{backgroundImage:`url(${banner})`}}>
     <nav className="navbar navbar-expand-lg navbar-dark">
         <div>
             <Link to={'/'}>
-                <img src={logo} alt="Logo" className='logo'/>
+                <img src={logo} alt="Logo" className='logo text-light'/>
             </Link>
         </div>
-        <div className="container-fluid">
+        <div className="container-fluid ">
             <button type="button" className="navbar-toggler btn btn-lg btn-outline-light" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
             <form className="d-flex" role="search">
-                    <input type="search" className="form-control me-2 btn-lg btn-outline-light" placeholder="Search"/>&nbsp;
-                    <button type="submit" className="btn text-light"><FaSistrix/></button>
+                    <span className='text-center'>Avirat</span>
             </form>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav text-center mb-2 mb-lg-0">
@@ -40,6 +40,7 @@ function header() {
         </div>
     </nav>
     <div className="caption">
+        {isAuthenticated && (<h3>Welcome, {user.nickname}!</h3>)}
         <h1>It's time for new</h1>
         <section className="animation">
             <div className="first"><div>Adventure</div></div>
@@ -57,4 +58,4 @@ function header() {
 );
 }
 
-export default header;
+export default Header;

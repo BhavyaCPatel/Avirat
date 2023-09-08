@@ -1,41 +1,16 @@
-import { useState } from 'react';
-import Button from 'react-bootstrap/Button';
-import Modal from 'react-bootstrap/Modal';
+import React from "react";
+import { useAuth0 } from "@auth0/auth0-react";
 
-function Example() {
-  const [show, setShow] = useState(false);
+const LoginButton = () => {
+  const { loginWithRedirect, logout, isAuthenticated } = useAuth0();
 
-  const handleClose = () => setShow(false);
-  const handleShow = () => setShow(true);
-
-  return (
+  return( 
     <>
-      <Button variant="outline-light" onClick={handleShow}>
-        Login
-      </Button>
-
-      <Modal
-        show={show}
-        onHide={handleClose}
-        backdrop="static"
-        keyboard={false}
-      >
-        <Modal.Header closeButton>
-          <Modal.Title>Modal title</Modal.Title>
-        </Modal.Header>
-        <Modal.Body>
-          I will not close if you click outside me. Don not even try to press
-          escape key.
-        </Modal.Body>
-        <Modal.Footer>
-          <Button variant="secondary" onClick={handleClose}>
-            Close
-          </Button>
-          <Button variant="primary">Understood</Button>
-        </Modal.Footer>
-      </Modal>
+    { isAuthenticated ? <button onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })} className="btn btn-outline-light">Log Out</button>
+    :<button onClick={() => loginWithRedirect()} className="btn btn-outline-light">Log In</button>
+    }
     </>
-  );
-}
+  )
+};
 
-export default Example;
+export default LoginButton;

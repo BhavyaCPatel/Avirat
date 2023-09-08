@@ -26,10 +26,12 @@ const Footer = () => {
         <span><BsFacebook className='ms-3'/></span>
         <span><BsInstagram className='ms-3'/></span>
         <span><BsTwitter className='ms-3'/></span>
+        <h4 className='text-center my-3'>Avirat</h4>
         <Link to={'/'}>
                 <img src={logo} alt="Logo" className='logo'/>
         </Link>
         <br/>
+        
     </div>
 </div>
 </div>
