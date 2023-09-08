@@ -40,7 +40,7 @@ const Header=()=> {
         </div>
     </nav>
     <div className="caption">
-        {isAuthenticated && (<h3>Welcome, {user.given_name}!</h3>)}
+        {isAuthenticated && (<h3>Welcome, {user.nickname}!</h3>)}
         <h1>It's time for new</h1>
         <section className="animation">
             <div className="first"><div>Adventure</div></div>
