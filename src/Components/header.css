@@ -11,7 +11,7 @@
 }
 Form{
     margin-left: 26%;
-    margin-right: 30%;
+    margin-right: 22%;
 }
 .navbar input{
     border: 0;
@@ -25,9 +25,7 @@ Form{
 .navbar input::placeholder { 
     color: white;
 }
-Nav.Link{
-    float: right;
-}
+
 .stats h2{
     margin-right: 10%;
     margin-bottom: 2%;

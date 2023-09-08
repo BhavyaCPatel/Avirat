@@ -4,16 +4,20 @@ import { FaUsers } from 'react-icons/fa6';
 import { BsGlobeCentralSouthAsia } from "react-icons/bs";
 import { GiCommercialAirplane } from 'react-icons/gi';
 import { GiReceiveMoney } from 'react-icons/gi';
-import image from './Assets/avirat-logo-removebg.png'
+import logo from './Assets/avirat-logo-removebg.png'
 import banner from './Assets/homepage-banner.jpg'
+import { Link } from 'react-router-dom';
+import Login from './Login'
+import SendInquiry from './SendInquiry'
+
 function header() {
   return (
     <div className='background' style={{backgroundImage:`url(${banner})`}}>
     <nav className="navbar navbar-expand-lg navbar-dark">
         <div>
-            <a className="navbar-brand container-fluid" href="#">
-                <img src={image} alt="Logo" className='logo'/>
-            </a>
+            <Link to={'/'}>
+                <img src={logo} alt="Logo" className='logo'/>
+            </Link>
         </div>
         <div className="container-fluid">
             <button type="button" className="navbar-toggler btn btn-lg btn-outline-light" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,10 +30,10 @@ function header() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav text-center mb-2 mb-lg-0">
                     <li className="nav-item">
-                        <a className="nav-link active" aria-current="page">Login</a>
+                        <SendInquiry/>
                     </li><div style={{"width":"2px"}}></div>
                     <li className="nav-item">
-                        <a className="nav-link active">Send Inquiry</a>
+                    <Login/>
                     </li><div style={{"width":"2px"}}></div>
                 </ul>
             </div>

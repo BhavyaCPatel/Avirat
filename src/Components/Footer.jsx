@@ -4,6 +4,7 @@ import { BsFacebook } from "react-icons/bs";
 import { BsInstagram } from "react-icons/bs";
 import { BsTwitter } from "react-icons/bs";
 import logo from './Assets/avirat-logo-removebg.png'
+import { Link } from 'react-router-dom';
 const Footer = () => {
   return (
     <div><div className="footer">
@@ -25,7 +26,9 @@ const Footer = () => {
         <span><BsFacebook className='ms-3'/></span>
         <span><BsInstagram className='ms-3'/></span>
         <span><BsTwitter className='ms-3'/></span>
-        <img src={logo} alt="logo" />
+        <Link to={'/'}>
+                <img src={logo} alt="Logo" className='logo'/>
+        </Link>
         <br/>
     </div>
 </div>
