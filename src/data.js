@@ -20,12 +20,14 @@ export const responsive = {
 export const BoIData = [
     {
         id: 1,
+        Cid:'India',
         name:'Spiti',
         imageurl:"https://images.unsplash.com/photo-1607144113358-9d8dd893a647?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1963&q=80",
     
     },  
     {  
         id: 2,
+        Cid:'India',
         name:'Rajasthan',
         imageurl:"https://images.unsplash.com/photo-1588084603723-41322210d44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1854&q=80",
         
@@ -33,6 +35,7 @@ export const BoIData = [
     },  
     {  
         id: 3,
+        Cid:'India',
         name:'Sikkim',
         imageurl:"https://images.unsplash.com/photo-1562413181-9013f9846bff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2lra2ltfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
         
@@ -40,42 +43,49 @@ export const BoIData = [
     },  
     {  
         id: 4,
+        Cid:'India',
         name:'Ladakh',
         imageurl:"https://images.unsplash.com/photo-1566323124805-757e5c41d37c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fExhZGFraHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
         
     },  
     {  
         id: 5,
+        Cid:'India',
         name:'Kashmir',
         imageurl:"https://images.unsplash.com/photo-1575336127377-71c4af9ce931?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGthc2htaXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
         
     },  
     {  
         id: 6,
+        Cid:'India',
         name:'MadhyaPradesh',
         imageurl:"https://images.unsplash.com/photo-1591824438708-ce405f36ba3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGthbmhhJTIwbmF0aW9uYWwlMjBwYXJrfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
         
     },  
     {  
         id: 7,
+        Cid:'India',
         name:'NorthEast',
         imageurl:"https://images.unsplash.com/photo-1455157823797-3019317cbcf0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bm9ydGglMjBlYXN0JTIwaW5kaWF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
         
     },  
     {  
         id: 8,
+        Cid:'India',
         name:'Kerala',
         imageurl:"https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8a2VyZWxhfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
         
     },  
     {  
         id: 9,
+        Cid:'India',
         name:'Uttarakhand',
         imageurl:"https://images.unsplash.com/photo-1626851372319-c9c92c097b0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHV0dGFyYWtoYW5kJTIwaW5kaWF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
         
     },
     {  
         id: 10,
+        Cid:'India',
         name:'Himachal',
         imageurl:"https://images.unsplash.com/photo-1621931650010-d4d18def2f39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhpbWFjaGFsJTIwcHJhZGVzaHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
     }
