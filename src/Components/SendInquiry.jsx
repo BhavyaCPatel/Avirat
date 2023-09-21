@@ -44,7 +44,7 @@ function Example() {
                         <label for="Name" className="form-label">Full Name</label>
                     </div>
                     <div className="form-floating mb-3">
-                        <input type="email" className="form-control" placeholder='E-mail' />
+                        <input type="email" className="form-control" placeholder='E-mail' required onChange={handleInputChange}/>
                         <label for="Email" className="form-label">Email address</label>
                     </div>
                     <div className="form-floating mb-3">
@@ -57,7 +57,7 @@ function Example() {
                             <label for="Travel Date" className="form-label">Travel Date</label>
                         </div>
                         <div className="form-floating col mb-4">
-                            <input type="number" className="form-control" placeholder='Travel Count'/>
+                            <input type="number" className="form-control" placeholder='Travel Count' required onChange={handleInputChange}/>
                             <label for="Travel Count" className="form-label">Travel Count</label>
                         </div>
                     <button type="submit" className="btn btn-warning btn-lg btn-block mb-5" disabled={!isFormValid}>Send</button>
