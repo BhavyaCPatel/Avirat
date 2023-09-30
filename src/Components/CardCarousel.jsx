@@ -36,7 +36,7 @@ const CardCarousel = () => {
                 </Carousel>
             </div>
             <div className="App my-5">
-                <u><h1 className='text-center m-3' style={{color: '#c7f9ccff'}}>Best Of Eroupe</h1></u>
+                <u><h1 className='text-center m-3' style={{color: '#c7f9ccff'}}>Best Of Europe</h1></u>
                 <Carousel  responsive={responsive} className='p-3'>
                     {card2}
                 </Carousel>
